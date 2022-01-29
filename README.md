@@ -8,3 +8,5 @@ Useful custom PHP functions and classes
 **Singleton.php** - пример паттерна Singleton.
 
 **FactoryMethod** - пример паттерна Factory Method.
+
+**AbstractFactory** - пример паттерна Abstract Factory.
