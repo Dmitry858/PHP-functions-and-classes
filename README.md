@@ -10,3 +10,5 @@ Useful custom PHP functions and classes
 **FactoryMethod** - пример паттерна Factory Method.
 
 **AbstractFactory** - пример паттерна Abstract Factory.
+
+**Prototype** - пример паттерна Prototype.
