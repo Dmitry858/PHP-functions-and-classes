@@ -5,10 +5,12 @@ Useful custom PHP functions and classes
 
 **ReflectionUtil.php** - пример получения исходного кода класса с помощью Reflection API.
 
-**Singleton.php** - пример паттерна Singleton.
+**Singleton.php** - пример паттерна Singleton (Одиночка).
 
-**FactoryMethod** - пример паттерна Factory Method.
+**FactoryMethod** - пример паттерна Factory Method (Фабричный метод).
 
-**AbstractFactory** - пример паттерна Abstract Factory.
+**AbstractFactory** - пример паттерна Abstract Factory (Абстрактная фабрика).
 
-**Prototype** - пример паттерна Prototype.
+**Prototype** - пример паттерна Prototype (Прототип).
+
+**Builder** - пример паттерна Builder (Строитель).
