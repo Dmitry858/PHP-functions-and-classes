@@ -14,3 +14,7 @@ Useful custom PHP functions and classes
 **Prototype** - пример паттерна Prototype (Прототип).
 
 **Builder** - пример паттерна Builder (Строитель).
+
+**Facade** - пример паттерна Facade (Фасад).
+
+**Proxy** - пример паттерна Proxy (Заместитель).
