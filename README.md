@@ -18,3 +18,5 @@ Useful custom PHP functions and classes
 **Facade** - пример паттерна Facade (Фасад).
 
 **Proxy** - пример паттерна Proxy (Заместитель).
+
+**Observer** - пример паттерна Observer (Наблюдатель).
