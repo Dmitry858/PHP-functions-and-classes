@@ -19,4 +19,6 @@ Useful custom PHP functions and classes
 
 **Proxy** - пример паттерна Proxy (Заместитель).
 
+**Adapter** - пример паттерна Adapter (Адаптер).
+
 **Observer** - пример паттерна Observer (Наблюдатель).
