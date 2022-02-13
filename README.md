@@ -21,4 +21,6 @@ Useful custom PHP functions and classes
 
 **Adapter** - пример паттерна Adapter (Адаптер).
 
+**Composite** - пример паттерна Composite (Компоновщик).
+
 **Observer** - пример паттерна Observer (Наблюдатель).
