@@ -24,3 +24,5 @@ Useful custom PHP functions and classes
 **Composite** - пример паттерна Composite (Компоновщик).
 
 **Observer** - пример паттерна Observer (Наблюдатель).
+
+**Strategy** - пример паттерна Strategy (Стратегия).
