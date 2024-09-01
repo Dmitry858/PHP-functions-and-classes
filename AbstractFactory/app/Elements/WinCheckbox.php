@@ -11,9 +11,9 @@ class WinCheckbox implements Checkbox
     public function paint(): string
     {
         return '
-            -------
-            | Win |
-            -------
+            ---------------
+            | WinCheckbox |
+            ---------------
         ';
     }
 }

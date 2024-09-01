@@ -2,9 +2,9 @@
 
 require __DIR__ . '/vendor/autoload.php';
 
+use App\Enums\Os;
+use App\Factories\Factory;
 use App\Interfaces\GUIFactory;
-use App\Factories\WinFactory;
-use App\Factories\MacFactory;
 
 function clientCode(GUIFactory $factory)
 {
@@ -16,6 +16,5 @@ function clientCode(GUIFactory $factory)
     echo '</pre>';
 }
 
-clientCode(new WinFactory);
-echo '<br>';
-clientCode(new MacFactory);
+$factory = Factory::make(Os::Win);
+clientCode($factory);

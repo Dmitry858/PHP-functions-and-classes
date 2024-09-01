@@ -11,9 +11,9 @@ class MacCheckbox implements Checkbox
     public function paint(): string
     {
         return '
-            -------
-            | Mac |
-            -------
+            ---------------
+            | MacCheckbox |
+            ---------------
         ';
     }
 }
